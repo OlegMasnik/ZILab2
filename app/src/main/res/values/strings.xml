@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Перестановочний шифр</string>
+    <string name="encrypt">ШИФРУВАТИ</string>
+    <string name="decrypt">ДЕШИФРУВАННЯ</string>
+    <string name="result">Результат:</string>
+    <string name="mes">Повідомлення:</string>
+    <string name="enterKey">Ключ (наприклад: 1-3-2):</string>
+</resources>
